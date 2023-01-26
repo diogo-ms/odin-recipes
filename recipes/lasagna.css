@@ -6,3 +6,8 @@ p, li, a {
 .page-title {
     text-align: center;
 }
+
+#finished-lasagna {
+    height: auto;
+    width: 500px;
+}
